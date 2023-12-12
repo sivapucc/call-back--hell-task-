@@ -35,6 +35,7 @@ setTimeout(() => {
                                         setTimeout(() => {
                                             ele.innerHTML = "Happy Indipendence Day";
                                             ele.style.color = '#ff006e';
+                                            ele.style.font-size='6rem';
                                         }, 1000)
                                     }, 1000)
                                 }, 1000)
